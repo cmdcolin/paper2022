@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <span className="topSpan">
-        <h2 className="jbrowseHeader">JBrowse BOG2020 demos</h2>
+        <h2 className="jbrowseHeader">JBrowse 2 paper demos</h2>
         <img alt="logo" src={icon} className="icon" align="right" />
       </span>
       <hr />
@@ -114,10 +114,8 @@ function Readme() {
     <div className="readme">
       <p>
         <i>
-          These demos present a preview of JBrowse 2, as a companion to our
-          Biology of Genomes 2020 poster. We highlight circular, dotplot, and
-          linear comparative views that are new to JBrowse 2. These new views
-          aim to help structural variant inspection and synteny visualization.
+          These demos contain live links to demos that are demonstrated in our
+          JBrowse 2 paper.
         </i>
       </p>
       <div>
