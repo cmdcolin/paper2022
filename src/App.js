@@ -1,7 +1,6 @@
 import React from 'react'
 import './style.css'
 import icon from './icon.ico'
-import ModalImage from 'react-modal-image'
 
 function App() {
   return (
@@ -18,7 +17,7 @@ function App() {
           <a href="#1" name="1">
             <h1>1 - Linear synteny demo</h1>
           </a>
-          <ModalImage small="1.png" large="1.png" />
+          <img src="1.png" />
 
           <a
             className="demo"
@@ -31,7 +30,7 @@ function App() {
           <a href="#2" name="2">
             <h1>2 - Zoom in on gene duplication - linear synteny demo</h1>
           </a>
-          <ModalImage small="2.png" large="2.png" />
+          <img src="2.png" />
 
           <a
             className="demo"
@@ -44,7 +43,7 @@ function App() {
           <a href="#3" name="3">
             <h1>3 - MSAView</h1>
           </a>
-          <ModalImage small="3.png" large="3.png" />
+          <img src="3.png" />
 
           <a
             className="demo"
@@ -57,7 +56,7 @@ function App() {
           <a href="#4" name="4">
             <h1>4 - Whole genome overview - Cancer CNVs</h1>
           </a>
-          <ModalImage small="4.png" large="4.png" />
+          <img src="4.png" />
           <p>Test</p>
           <a
             className="demo"
@@ -70,7 +69,7 @@ function App() {
           <a href="#5" name="5">
             <h1>5 - Breakpoint split view</h1>
           </a>
-          <ModalImage small="5.png" large="5.png" />
+          <img src="5.png" />
 
           <a
             className="demo"
@@ -83,7 +82,7 @@ function App() {
           <a href="#6" name="6">
             <h1>6 - SV inspector</h1>
           </a>
-          <ModalImage small="6.png" large="6.png" />
+          <img src="6.png" />
 
           <a
             className="demo"
@@ -96,7 +95,7 @@ function App() {
           <a href="#7" name="7">
             <h1>7 - Read vs reference</h1>
           </a>
-          <ModalImage small="7.png" large="7.png" />
+          <img src="7.png" />
 
           <a
             className="demo"
