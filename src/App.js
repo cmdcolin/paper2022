@@ -104,6 +104,19 @@ function App() {
             Demo
           </a>
         </div>
+        <div className="post">
+          <a href="#8" name="8">
+            <h1>8 - Ideogram plugin</h1>
+          </a>
+          <img src="8.png" />
+
+          <a
+            className="demo"
+            href="http://jbrowse.org/code/jb2/v1.7.6/?config=test_data%2Fconfig.json&session=share-yh_v6K9DQd&password=5CXxD"
+          >
+            Demo
+          </a>
+        </div>
       </div>
     </div>
   )
