@@ -39,24 +39,12 @@ function App() {
             Demo
           </a>
         </div>
+
         <div className="post">
           <a href="#3" name="3">
-            <h1>3 - MSAView</h1>
+            <h1>3 - Whole genome overview - Cancer CNVs</h1>
           </a>
           <img src="3.png" />
-
-          <a
-            className="demo"
-            href="http://jbrowse.org/code/jb2/v1.7.6/?session=share-yGChKteEq4&password=c4cPj"
-          >
-            Demo
-          </a>
-        </div>
-        <div className="post">
-          <a href="#4" name="4">
-            <h1>4 - Whole genome overview - Cancer CNVs</h1>
-          </a>
-          <img src="4.png" />
           <p>Test</p>
           <a
             className="demo"
@@ -66,10 +54,10 @@ function App() {
           </a>
         </div>
         <div className="post">
-          <a href="#5" name="5">
-            <h1>5 - Breakpoint split view</h1>
+          <a href="#4" name="4">
+            <h1>4 - Breakpoint split view</h1>
           </a>
-          <img src="5.png" />
+          <img src="4.png" />
 
           <a
             className="demo"
@@ -79,10 +67,10 @@ function App() {
           </a>
         </div>
         <div className="post">
-          <a href="#6" name="6">
-            <h1>6 - SV inspector</h1>
+          <a href="#5" name="5">
+            <h1>5 - SV inspector</h1>
           </a>
-          <img src="6.png" />
+          <img src="5.png" />
 
           <a
             className="demo"
@@ -92,10 +80,10 @@ function App() {
           </a>
         </div>
         <div className="post">
-          <a href="#7" name="7">
-            <h1>7 - Read vs reference</h1>
+          <a href="#6" name="6">
+            <h1>6 - Read vs reference</h1>
           </a>
-          <img src="7.png" />
+          <img src="6.png" />
 
           <a
             className="demo"
@@ -105,10 +93,10 @@ function App() {
           </a>
         </div>
         <div className="post">
-          <a href="#8" name="8">
-            <h1>8 - Ideogram plugin</h1>
+          <a href="#7" name="7">
+            <h1>7 - Ideogram plugin</h1>
           </a>
-          <img src="8.png" />
+          <img src="7.png" />
 
           <a
             className="demo"
